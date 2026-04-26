@@ -29,7 +29,7 @@ Start with these basics:
 
 > Real-time system monitoring with `htop`
 
-![Preview](https://raw.githubusercontent.com/linuxteck/htop-guide/main/htop-preview.png)
+![Preview](https://github.com/linuxteck/htop-command-in-linux/blob/main/htop-git.png)
 
 ---
 
